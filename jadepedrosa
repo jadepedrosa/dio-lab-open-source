@@ -1,0 +1,19 @@
+<div>
+    <h1>Hello world 👋 </h1>
+    <h2>Welcome to my profile! </h2>
+    <p> I'm Jade, an administrator, and a beginner in tech.    
+    </p>
+    <p>
+    My main goal is to learn Python with a focus on data science and become a data-driven professional.
+    </p>
+</div>
+<div>
+    <h2>Connect with me on LinkedIn</h2>
+   <a href="https://www.linkedin.com/in/jade-pedrosa-b71b86b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
+
+<div style="display: inline_block"><br>
+    <h2> Currently, I'm learning Python </h2>
+
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
